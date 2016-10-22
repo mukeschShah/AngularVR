@@ -7,10 +7,15 @@ Web-App for virtualreality and augmented reality. The idee behind this project i
 
 
 
-## planed fetures
+## minimal features
 
 - headtracking using cell phone camera and something like AR markers, or edge detection
 - using three.js (WEBVR)
 - using Angular 2.0
 - real web-appliction, that means running in a webbrowser like safari, firefox or chrome)
+
+## additiona features
+
+- using bluetooth gamepad for controlling
+- using voice controll for controlling
 
