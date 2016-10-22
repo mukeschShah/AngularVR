@@ -1,2 +1,16 @@
 # AngularVR
-Web-App for virtualreality and augmented reality
+Web-App for virtualreality and augmented reality. The idee behind this project is to provide  a low-cost virtual-reality environment skeleton to build vr-web-apps using the famous 3D-webgl-framework three.js and the minimal hardware setup containing:
+
+- server which is hosting the angular 2.0 app
+- an standard smartphone with camera
+- a cheap vr-headmount  like *google cardboard* or *VR Box*
+
+
+
+## planed fetures
+
+- headtracking using cell phone camera and something like AR markers, or edge detection
+- using three.js (WEBVR)
+- using Angular 2.0
+- real web-appliction, that means running in a webbrowser like safari, firefox or chrome)
+
