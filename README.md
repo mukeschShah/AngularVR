@@ -16,6 +16,5 @@ Web-App for virtualreality and augmented reality. The idee behind this project i
 
 ## additiona features
 
-- using bluetooth gamepad for controlling
+- using bluetooth gamepad of wii-remote for controlling
 - using voice controll for controlling
-
