@@ -23,3 +23,5 @@ Web-App for virtualreality and augmented reality. The idee behind this project i
 
 aruco-js using the WebRTC-API to access the webcame. WebRTC is not support by ios-mobile browser.
 so cordova is an solution for that. [cordova-plugin-iosrtc](https://github.com/eface2face/cordova-plugin-iosrtc) actualy has a build error.. so is not working at the moment.
+
+alternative : https://github.com/remotium/cordova-plugin-webrtc
