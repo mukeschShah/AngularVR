@@ -18,3 +18,9 @@ Web-App for virtualreality and augmented reality. The idee behind this project i
 
 - using bluetooth gamepad of wii-remote for controlling
 - using voice controll for controlling
+
+## actual limitation
+
+aruco-js using the WebRTC-API to access the webcame. WebRTC is not support by ios-mobile browser.
+so cordova is an solution for that. 
+cordova-plugin-iosrtc actualy has a build error.. so is not working at the moment.
